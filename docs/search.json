@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "test",
     "section": "",
-    "text": "title: “test” listing: contents: posts sort: [date desc, title] type: table categories: true sort-ui: true filter-ui: true page-layout: full title-block-banner: true"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 28, 2023\n\n\n00. test\n\n\nGC \n\n\n\n\nOct 28, 2023\n\n\n00. test\n\n\nGC \n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
